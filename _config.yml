@@ -9,7 +9,7 @@ subtitle:
 description:
 author: 空白
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: ko
+language: ja
 date_format: '%Y-%m-%d'
 
 # URL
@@ -168,13 +168,13 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap
+  host: https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: "Noto Serif KR"
+    family: "Noto Serif JP"
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
